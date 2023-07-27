@@ -13,7 +13,7 @@ Note: when you run the app and run through this problem
 
 Reason: Updated Node.js
 Solution: Install another node.js version (preferably 14.0.0 --v) and run cmd as admin
->> nvm list
->> nvm use 14.0.0
+nvm list
+nvm use 14.0.0
 
 Now run the app again: ionic serve
